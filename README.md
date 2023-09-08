@@ -17,6 +17,6 @@ Feito com ❤️ por Pamela usando plataforma de estudos Udemy.
 
 Visual Studio Code
 GitHub
-HTML, CSS e JS
-Bootstrap
+HTML, CSS,
+Bootstrap e
 JavaScript
