@@ -15,7 +15,7 @@
 Feito com ❤️ por Pamela usando plataforma de estudos Udemy.
 
 
-Tecnologias e Ferramentas utilizadas
+## Tecnologias e Ferramentas utilizadas
 
 Visual Studio Code
 GitHub
