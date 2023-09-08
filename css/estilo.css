@@ -1,0 +1,28 @@
+#home {
+	background: #ffae23;
+	color: white;
+}
+
+.navbar {
+	background: #ffc527;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: rgb(255, 255, 255);
+  }
+
+.caixa {
+	padding: 60px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.navbar-dark .navbar-toggler {
+	color: rgba(255, 255, 255, 0.87);
+	border-color: rgb(255, 255, 255,0.5);
+  }
+
+  footer p a {
+	margin: 5px 15px;
+	color: rgb(178, 142, 0);
+
+  }
