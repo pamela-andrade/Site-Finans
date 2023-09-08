@@ -10,8 +10,6 @@
 - Disponível para dispositivos Android e iOS
 - Suporte amigável para resolver suas dúvidas
 
----
-
 Feito com ❤️ por Pamela usando plataforma de estudos Udemy.
 
 
