@@ -19,3 +19,4 @@ Visual Studio Code
 GitHub
 HTML, CSS e JS
 Bootstrap
+JavaScript
